@@ -1,0 +1,40 @@
+header {
+    padding: 20px;
+    margin: auto;
+}
+
+.menuimg {
+    float: right;
+    padding: 10px;
+}
+
+.hero {
+    width: 482.62px;
+    height: 448px;
+    left: 32px;
+    top: 110px; 
+    display:flex;
+    flex-wrap: nowrap;
+    /* position: relative; */
+}
+
+.text {
+    position: absolute;
+    width: 274px;
+    height: 410px;
+    left: 32px;
+    top: 148px;
+}
+
+.text .title {
+    color: #FF3998;
+}
+
+.graphic img {
+    width: 189.62px;
+    height: 278px;
+    left: 325px;
+    top: 110px;
+    Position: absolute;
+    object-fit: contain;
+}
